@@ -1,0 +1,43 @@
+{
+  "metadata": {
+    "source_file": "../data/call_transcripts.csv",
+    "total_records": 2,
+    "fields": [
+      "transcript_id",
+      "ticket_id",
+      "call_duration",
+      "transcript_text",
+      "call_date",
+      "agent_name",
+      "customer_satisfaction",
+      "resolution_provided",
+      "follow_up_needed"
+    ],
+    "sample_size": 2,
+    "organization_types": {}
+  },
+  "records": [
+    {
+      "transcript_id": 1,
+      "ticket_id": 3,
+      "call_duration": 609,
+      "transcript_text": "Customer (Sharon Harris): We're trying to connect our donor management system with your platform, but we're not seeing the integration options we need.\\n\\nAgent (Emily Davis): I'd be happy to help you with that integration. Which CRM or donor management system are you using?\\n\\nCustomer (Sharon Harris): We use Salesforce for our donor relationships, and we really need the giving data to sync automatically. We're currently on the basic plan.\\n\\nAgent (Emily Davis): Ah, I see what's happening. Salesforce integration requires our API access features, which are included in our premium plan. The basic plan has limited integration capabilities.\\n\\nAgent (Emily Davis): Let me pull up your account history to see what's been happening with this issue.\\n\\nCustomer (Sharon Harris): Yes, please. We've been tracking this on our end and have some specific dates and amounts if that helps.\\n\\nCustomer (Sharon Harris): We really need this to work. Our development team is spending too much time manually importing data. What would an upgrade get us?\\n\\nAgent (Emily Davis): Premium would give you full API access, real-time data syncing, custom field mapping, and webhook support. Plus you'd get advanced reporting and bulk operations.\\n\\nAgent (Emily Davis): That would be very helpful. Can you walk me through what you've documented?\\n\\nCustomer (Sharon Harris): Sure, I have it right here. Let me get my notes... [rustling papers] Okay, here we go.\\n\\nAgent (Emily Davis): I'm looking into that right now.\\n\\nCustomer (Sharon Harris): Our organization has been growing fast. We're St. Mary's Catholic Church and we've got 45 people who need access to this data. What's the investment?\\n\\nAgent (Emily Davis): For an organization your size, premium would be an additional $200 per month, but you'd save significant staff time and get much better data insights. I can show you the ROI calculation.\\n\\nCustomer (Sharon Harris): Let's look at the numbers. If this saves our team 20 hours a week, it's definitely worth it.\\n\\nAgent (Emily Davis): Exactly! I'll set up a demo showing the Salesforce integration in action, and we can calculate the exact time savings for your workflow.\\n\\n[Agent quickly accessing system - 10 second pause]",
+      "call_date": "2024-07-06 22:09:17",
+      "agent_name": "Emily Davis",
+      "customer_satisfaction": 3,
+      "resolution_provided": "True",
+      "follow_up_needed": "True"
+    },
+    {
+      "transcript_id": 2,
+      "ticket_id": 4,
+      "call_duration": 578,
+      "transcript_text": "Agent (Rachel Thompson): Thanks for contacting Vanco, this is Rachel.\\n\\nCustomer (Sharon Nelson): Hello, I need help with we're redesigning our website and want to embed donation forms directly into our pages, but we're having trouble with the integration.\\n\\nAgent (Rachel Thompson): Website integration is really important for donor conversion rates. What platform is your website built on, and what specific challenges are you facing?\\n\\nCustomer (Sharon Nelson): We're using WordPress and we want seamless donation forms that match our site design. The current embedded forms look out of place.\\n\\nAgent (Rachel Thompson): I completely understand - design consistency is crucial for donor trust. Our premium plan includes customizable embedded forms with full CSS control so they'll match your site perfectly.\\n\\nAgent (Rachel Thompson): I'm going to review your account details.\\n\\nCustomer (Sharon Nelson): We're St. Mary's Catholic Church and we're also looking to add things like donation progress bars, donor walls, and real-time campaign updates to our site.\\n\\nAgent (Rachel Thompson): Those are excellent engagement tools! Premium includes widgets for progress tracking, donor recognition displays, and live campaign feeds that you can embed anywhere on your site.\\n\\nCustomer (Sharon Nelson): What about mobile responsiveness? A lot of our donors give through their phones.\\n\\nAgent (Rachel Thompson): All our premium widgets are fully mobile-responsive and optimized for mobile giving. We also have one-click donation options and mobile wallet integration like Apple Pay and Google Pay.\\n\\nAgent (Rachel Thompson): Let me pull that up for you.\\n\\nCustomer (Sharon Nelson): This sounds like exactly what we need for our new site. What's involved in upgrading? I want to make sure I explain this thoroughly.\\n\\nAgent (Rachel Thompson): I can upgrade you today and provide custom CSS templates that match your brand. I'll also walk your web team through the integration process to ensure everything looks perfect.\\n\\n[Agent quickly accessing system - 10 second pause]",
+      "call_date": "2024-07-12 01:34:50",
+      "agent_name": "Rachel Thompson",
+      "customer_satisfaction": 4,
+      "resolution_provided": "True",
+      "follow_up_needed": "True"
+    }
+  ]
+}
